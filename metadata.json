@@ -1,0 +1,10 @@
+{
+  "name": "StatStream Excel Analyzer",
+  "description": "An elegant statistical analysis tool for Excel datasets with interactive visualizations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "Excel Data Extraction",
+    "Statistical Computations",
+    "Dynamic Chart Generation"
+  ]
+}
